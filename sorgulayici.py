@@ -29,11 +29,11 @@ print ('''
 ''')
 print"\033[1;33m==================================================================================================\033[1;33m"
 print   
-print	"\033[1;32mAuthor			:Mahfuzur Rahman\033[1;32m"
-print	"\033[1;32Github			:https://github.com/anonymousproo\033[1;32m"
-print	"\033[1;32mYouTube			:https://www.youtube.com/anonymousproo			{IP Tracker v3.0}\033[1;32m"
-print	"\033[1;32mfacebook		:https://m.facebook.com/anonymousproo1\033[1;32m"
-print	"\033[1;32mcoded by		:ANONYMOUS PRO YTB\033[1;32m"
+print	"\033[1;32mAuthor			:ByALTAY\033[1;32m"
+print	"\033[1;32Github			:https://github.com/WebAltay\033[1;32m"
+print	"\033[1;32mYouTube			:https://www.youtube.com/channel/UCFKW7hQ9UhiyEfThJQB_nzg                       			{IP Tracker v3.0}\033[1;32m"
+print	"\033[1;32mfacebook		:https://m.facebook.com/WebAltay\033[1;32m"
+print	"\033[1;32mcoded by		:WebAltay/033[1;32m"
 print
 print"\033[1;33m==================================================================================================\033[1;33m"
 print ("\n\033[1;33mYour IP: \033[1;33m" + result1['query'])
