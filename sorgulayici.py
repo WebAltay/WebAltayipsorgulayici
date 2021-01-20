@@ -1,11 +1,11 @@
-#ip tracker v0.5 provider by Anonymous Pro
-#Author Mahfuzur Rahman
+#ip tracker v0.5 provider by ALTAY
+#Author By ALTAY 
 #python script
 #Follw Me
-#visit: www.anonymousproo.com
-#github: https://github.com/anonymousproo
-#youtube: https://www.youtube.com/anonymousproo
-#Facebook: https://m.facebook.com/anonymousproo1
+#visit: https://www.webaltay.gq/
+#github: https://github.com/WebAltay/
+#youtube https://www.youtube.com/WebAltay
+#Facebook: https://m.facebook.com/WebAltay 
 import os
 import urllib2
 import json
